@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabricohe54
-- 👀 I’m interested in new member for the developpement of a game in python with pygame
-- 🌱 I’m currently learning pygame for a collaborate project
+- 👋 Hi, I’m @Altais-quest
+- 👀 I’m interested in new member for the developpement of a game in unity
+- 🌱 I’m currently learning unity for a collaborate project
 - 📫 How to reach me on discord @cdurdetrouver#3294
 
 <!---
